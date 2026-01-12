@@ -1,7 +1,3 @@
 첫번째 버전관리
 두번째 버전관리
-<<<<<<< HEAD
 세번째 버전관리
-=======
-third version control
->>>>>>> cd3ab5f65241efa6be3d25bceee71b36a2247558
